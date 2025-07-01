@@ -1,1 +1,2 @@
-Fullstack web & mobile developper with teaching experience.
+Web & Mobile Fullstack Developer.
+Teacher at La Capsule.
